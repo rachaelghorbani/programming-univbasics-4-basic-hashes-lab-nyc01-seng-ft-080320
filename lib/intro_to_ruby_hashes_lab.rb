@@ -6,7 +6,7 @@ end
 def my_hash
   {
     :breed => "dog",
-    :name => "blade"
+    :name => "blade",
     :shape => "potate"
   }
   
