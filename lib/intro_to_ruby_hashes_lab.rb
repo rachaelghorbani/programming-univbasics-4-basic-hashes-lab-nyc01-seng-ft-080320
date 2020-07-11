@@ -24,5 +24,6 @@ def id_hash_generator(number)
   number_hash = {
     :id => number
   }
-  # return a hash with a key :id assigned to the provided number
+  number_hash
+
 end
